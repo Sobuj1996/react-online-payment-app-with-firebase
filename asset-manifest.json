@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-online-payment-app-with-firebase/static/css/main.70d6a349.chunk.css",
+    "main.js": "/react-online-payment-app-with-firebase/static/js/main.945575e4.chunk.js",
+    "main.js.map": "/react-online-payment-app-with-firebase/static/js/main.945575e4.chunk.js.map",
+    "runtime-main.js": "/react-online-payment-app-with-firebase/static/js/runtime-main.26333a7c.js",
+    "runtime-main.js.map": "/react-online-payment-app-with-firebase/static/js/runtime-main.26333a7c.js.map",
+    "static/js/2.9687549d.chunk.js": "/react-online-payment-app-with-firebase/static/js/2.9687549d.chunk.js",
+    "static/js/2.9687549d.chunk.js.map": "/react-online-payment-app-with-firebase/static/js/2.9687549d.chunk.js.map",
+    "index.html": "/react-online-payment-app-with-firebase/index.html",
+    "static/css/main.70d6a349.chunk.css.map": "/react-online-payment-app-with-firebase/static/css/main.70d6a349.chunk.css.map",
+    "static/js/2.9687549d.chunk.js.LICENSE.txt": "/react-online-payment-app-with-firebase/static/js/2.9687549d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26333a7c.js",
+    "static/js/2.9687549d.chunk.js",
+    "static/css/main.70d6a349.chunk.css",
+    "static/js/main.945575e4.chunk.js"
+  ]
+}
